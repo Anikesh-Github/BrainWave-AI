@@ -5,10 +5,10 @@ An intelligent web application that leverages Google's Gemini API to automatical
 
 ![Home](images/home.png)    
 ![Make](images/make.png)  
-![Old](images/Screenshot 2025-09-06 134650.png)  
-![Quiz](imagesScreenshot 2025-09-06 134747.png)  
-![Quiz Result](images/Screenshot 2025-09-06 134452.png)  
-![Result](images/Screenshot 2025-09-06 134725.png)  
+![Old](images/Screenshot1.png)  
+![Quiz](images/Screenshot2.png)  
+![Quiz Result](images/Screenshot8.png)  
+![Result](images/Screenshot4.png)  
 
 
 

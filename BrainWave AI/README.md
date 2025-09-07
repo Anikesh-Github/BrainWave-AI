@@ -4,13 +4,12 @@
 An intelligent web application that leverages Google's Gemini API to automatically generate interactive quizzes on any subject. This project is built with Python and the Flask web framework.
 
 ![Home](images/home.png)  
-![Correct Wrong](images/correct_wrong.png)  
 ![Make](images/make.png)  
-![Old](images/old.png)  
-![Quiz](images/quiz.png)  
-![Quiz Result](images/quizResult.png)  
-![Result](images/result.png)  
-![Settings](images/settings.png)  
+![Old](images/Screenshot%202025-09-06%20134650.png)
+![Quiz](images/Screenshot%202025-09-06%20134747.png)
+![Quiz Result](images/Screenshot%202025-09-06%20134452.png)
+![Result](images/Screenshot%202025-09-06%20134725.png)
+
 
 
 ## Table of Contents
